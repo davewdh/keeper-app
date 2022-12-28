@@ -11,5 +11,5 @@
 
 ## Keeper App 
 
-- 📦 [Repository]()
-- 🖥 [Site]()
+- 📦 [Repository](https://github.com/davewdh/keeper-app)
+- 🖥 [Site](https://kepper-application.netlify.app/)
